@@ -1,0 +1,3 @@
+mu,cov,exp_return,volatility,sharpe,weights_file,selected_treasury
+EMA,Sample,0.2309964769958637,0.11999999999709861,1.92497064167874,weights_EMA_Sample_efficient_risk.csv,"IRLTLT01DEM156N_Deutschland_Bundesanleihen_6.250%_Jan_04,_2030_BU"
+Mean,Sample,0.15256963502160192,0.11999999999338429,1.2714136252501103,weights_Mean_Sample_efficient_risk.csv,TENOR_DGS10_United_States_Treasury_10-Year_Bond_2.250%_Aug_15
